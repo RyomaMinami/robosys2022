@@ -1,11 +1,10 @@
 #!/usr/bin/python3
 import sys
 
-ans = 0.0
+ans =0.0
+
 for line in sys.stdin:
-    try:
-        ans += float(line)
-    except:
-        ans += float(line)
+    if line != 0:
+            ans += float(line)
 
 print(ans)

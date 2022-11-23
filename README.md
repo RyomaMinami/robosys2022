@@ -1,6 +1,7 @@
 # robosys2022
 # plusコマンド
 ![test](https://github.com/RyomaMinami/robosys2022/actions/workflows/test.yml/badge.svg)
+![LICESE](https://github.com/RyomaMinami/robosys2022/blob/main/LICENSE)
 
 標準入力から読み込んだ数字を足す。
 標準入力に0が入力されている時、0を省いて計算すa

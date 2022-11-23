@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-#@ Ryoma Minami
+# SPDX-FileCopyrightText: 2022 Ryoma Minami　　　　　
+# SPDX-License-Identifier: BSD-3-Clause
 
 import sys
 

@@ -9,6 +9,21 @@
 ![LICESE](https://github.com/RyomaMinami/robosys2022/blob/main/LICENSE)
 
 ## インストール手順
+```
+git clone git:https://github.com/RyomaMinami/robosys2022/plus.git
+```
+
+###使用例
+
+入力例
+```
+seq 5 | ./plus
+```
+
+出力例
+```
+15.0
+```
 
 
 ## 必要なソフトウェア

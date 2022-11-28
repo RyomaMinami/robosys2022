@@ -5,19 +5,19 @@
 標準入力から読み込んだ数字を足す。
 標準入力に0が入力されている時、0を省いて計算
 
-![test](https://github.com/RyomaMinami/robosys2022/actions/workflows/test.yml/badge.svg)
-![LICESE](https://github.com/RyomaMinami/robosys2022/blob/main/LICENSE)
+[test](https://github.com/RyomaMinami/robosys2022/actions/workflows/test.yml/badge.svg)
+[LICESE](https://github.com/RyomaMinami/robosys2022/blob/main/LICENSE)
 
 ## インストール手順
 ```
-git clone git:https://github.com/RyomaMinami/robosys2022/plus.git
+$ git clone git:https://github.com/RyomaMinami/robosys2022/plus.git
 ```
 
-###使用例
+## 使用例
 
 入力例
 ```
-seq 5 | ./plus
+$ seq 5 | ./plus
 ```
 
 出力例

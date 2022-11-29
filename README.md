@@ -1,4 +1,5 @@
 # robosys2022
+このリポジトリにはLICENCE,README.md,plus,test.bashが含まれる
 # plusコマンド
 
 ## 用途
@@ -27,8 +28,7 @@ $ seq 5 | ./plus
 
 
 ## 必要なソフトウェア
-* Python
-  * テスト済み: 3.7〜3.10
+* Python 3.7〜3.10
 
 ## テスト環境
 * Ubuntu 22.04.1 LTS

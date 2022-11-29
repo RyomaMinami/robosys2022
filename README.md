@@ -6,7 +6,7 @@
 標準入力に0が入力されている時、0を省いて計算
 
 [test](https://github.com/RyomaMinami/robosys2022/actions/workflows/test.yml/badge.svg)
-[LICESE](https://github.com/RyomaMinami/robosys2022/blob/main/LICENSE)
+[LICENSE](https://github.com/RyomaMinami/robosys2022/blob/main/LICENSE)
 
 ## インストール手順
 ```

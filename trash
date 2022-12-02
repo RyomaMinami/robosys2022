@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/minami/robosys2022/./plus", line 8, in <module>
+    ans += float(line)
+ValueError: could not convert string to float: 'あ\n'
+Traceback (most recent call last):
+  File "/home/minami/robosys2022/./plus", line 8, in <module>
+    ans += float(line)
+ValueError: could not convert string to float: ''
